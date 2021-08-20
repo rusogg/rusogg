@@ -13,4 +13,4 @@
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rusogg)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rusogga&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rusogg&show_icons=true)
