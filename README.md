@@ -3,9 +3,8 @@
 <--
 
 - 💬 Tengo 24 años
-- 🔭 Trabajo en una empresa privada actualmente
 - 🌱 Estoy en 3er año de licenciatura en sistemas
-- 📫 Mis redes sociales son--> instagram: /rusogg09  twitch: /rusogg
+- 📫 Mis redes sociales son--> instagram: /rusogg9  twitch: /rusogg
 
 -->
 
